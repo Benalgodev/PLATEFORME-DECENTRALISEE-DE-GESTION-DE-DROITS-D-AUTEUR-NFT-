@@ -1,1 +1,1 @@
-{"date":"2021-04-02T00:00:00+02:00","project":"Blog avec gestion d’utilisateurs","message":"Correction de bugs sur les routes sécurisées"}
+{"date":"2021-04-02T00:00:00+02:00","project":"Blog avec gestion d’utilisateurs","message":"Ajout de l'authentification avec bcrypt"}
